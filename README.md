@@ -71,7 +71,7 @@ dashboard preview:
 see the attached Dashboard PDF
 
 Dashboard file:
-[view Customer Behaviour Analysis Dashboard](/.Customer%20Shopping%20Behaviour%20Analysis%20.pdf)
+[view Customer Behaviour Analysis Dashboard](/.Customer Shopping Behaviour Analysis .pdf)
 
 
 9. Conclusion
