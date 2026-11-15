@@ -71,6 +71,9 @@ dashboard preview:
 see the attached Dashboard PDF
 
 Dashboard file:
+[view Customer Behaviour Analysis Dashboard](/.Customer%20Shopping%20Behaviour%20Analysis%20.pdf)
+
+
 9. Conclusion
 
 This project provides insights into customer shopping behaviour through data visualization. It helps understand customer preferences and purchasing patterns across different categories.
